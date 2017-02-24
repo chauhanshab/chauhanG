@@ -1,0 +1,588 @@
+body {
+font-family: 'Crimson Text', serif
+}
+img {
+  width: 100%;
+  margin: 10px 5px;
+}
+.jumbotron {
+border-spacing: 60px 0;
+table-layout: fixed;
+}
+#top {
+  background: url("http://i.imgur.com/cX47enE.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  position: relative;
+  top: -115px;
+  padding: 470px 0 0 50px;
+  background-attachment: fixed;
+}
+.navbar-header {
+  margin-right: 100px;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color:red;
+}
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+
+
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the links inside the tab */
+div.tab a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+div.tab a:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab a:focus, .active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+#whatpeoplethink h2{
+   font-family: 'Della Respira', serif;
+  color: rgba(165, 4, 4, .8);
+
+}
+
+
+#clubword {
+  color: rgba(150, 7, 14, 0.8);
+}
+#top h2 {
+  font-size: 100px;
+  position: relative;
+  left: -305px;
+  top: -255px;
+}
+  #top h3 {
+    position: relative;
+    left: -285px;
+    top: -255px;
+  }
+  #clubword1 {
+    color: rgba(91, 84, 84, .7);
+  }
+  #top a {
+    color: white;
+    border: 2px solid white;
+    height: 30px;
+    width: 30px;
+    padding: 15px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 60px;
+  }
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+.decoo {
+  width: 100%;
+  color: white;
+  position: relative;
+  left: -285px;
+  top: -255px;
+  color: rgba(150, 7, 14, 0.8);
+}
+.deco {
+  width: 100%;
+  color: white;
+  position: relative;
+
+  color: rgba(150, 7, 14, 0.8);
+}
+.deco-line {
+  border-bottom: 2px solid rgba(150, 7, 14, 0.8);
+  display: inline-block;
+  width: 10%;
+  color: white;
+}
+.deco1 {
+  width: 100%;
+  color: white;
+  position: relative;
+  left: -305px;
+  top: -255px;
+  color: rgba(150, 7, 14, 0.8);
+}
+.deco-line1 {
+  border-bottom: 2px solid rgba(150, 7, 14, 0.8);
+  display: inline-block;
+  width: 10%;
+  color: white;
+}
+.welcome {
+  position: relative;
+  top: -175px;
+  padding: 0 12%;
+}
+.welcome p {
+  color: grey;
+  font-size: 20px;
+  text-align: center;
+}
+.whatwedo {
+  position: relative;
+  top: -175px;
+  padding: 0 9%;
+}
+.iconsandtexts {
+  position: relative;
+  top: 90px;
+}
+.iconsandtexts i {
+  font-size: 40px;
+  color: rgba(150, 7, 14, 0.8);
+}
+.iconsandtexts p{
+  font-size: 38px;
+  position: relative;
+  top: 63px;
+}
+#iconsandtextss {
+  font-size: 15px;
+  position: relative;
+  top: 25px;
+}
+
+.row {
+  margin-top: 150px;
+  text-align: center;
+}
+.btn  {
+  background-color: grey;
+  
+    border-radius: 70px;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    
+    cursor: pointer;
+   
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+#pics {
+  position: relative;
+  top: 172px;
+}
+.wtg {
+position: relative;;
+left: -150px;
+max-width: 1100px;
+top: 25px;
+
+}
+.pics1 {
+position: relative;
+  margin-top: 60px;
+  margin-bottom: -40px;
+}
+.pics2 {
+  position: relative;
+    margin-top: 10px;
+    margin-bottom: -40px;
+}
+.pics22{
+   position: relative;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.facilities {
+  position: relative;
+  top: -25px;
+}
+.facilities1 {
+  position: relative;
+  top: 20px;
+}
+.facilitiestext{
+  position: relative;
+  top: 25px;
+}
+.facilitiestext h4 {
+  font-weight: bold;
+}
+.facilitiestext p {
+  text-align: center;
+}
+#contact {
+  position: relative;
+}
+
+.contact-box {
+  position: relative;
+  z-index: 100;
+  background: white;
+  width: 25%;
+  height: 500px;
+  top: -400px;
+  padding: 30px 5px 0px 15px;
+  
+  border-bottom: 80px;
+}
+
+.review h2 {
+  font-family: 'Della Respira', serif;
+  color: rgba(165, 4, 4, .8);
+}
+.welcome h2 {
+  font-family: 'Della Respira', serif;
+  color: rgba(165, 4, 4, .8);
+}
+.whatwedo h2 {
+  font-family: 'Della Respira', serif;
+  color: rgba(165, 4, 4, .8);
+}
+.facilities h2 {
+  font-family: 'Della Respira', serif;
+  color: rgba(165, 4, 4, .8);
+}
+.facilitiestext h4 {
+  font-family: 'Della Respira', serif;
+  color: rgba(165, 4, 4, .8);
+}
+.facilitiestext h4 p {
+  line-height: 40px;
+  font-size: 30px;
+}
+.ourpdcts h2 {
+  font-family: 'Della Respira', serif;
+  color: rgba(165, 4, 4, .8);
+}
+#meetourteam h2 {
+  font-family: 'Della Respira', serif;
+  color: rgba(165, 4, 4, .8);
+}
+#map {
+  width: 100%;
+  height: 400px;
+  background-color: grey;
+  position: relative;
+  z-index: -1;
+}
+#home {
+  position: relative;
+  left: 200px;
+}
+
+.btn-md {
+  position: relative;
+  top: 15px;
+}
+.btn-md1 {
+  position: relative;
+  top: 55px;
+}
+.mot1 {
+  border: none;
+  border-radius: 400px;
+  width: 150px;
+  margin: 0 auto;
+}
+.mot2 {
+  border: none;
+  border-radius: 400px;
+  height: auto;
+  width: 150px;
+  margin: 0 auto;
+}
+.mot3 {
+  border: none;
+  border-radius: 400px;
+  width: 150px;
+  margin: 0 auto;
+}
+.mot4 {
+  border: none;
+  border-radius: 400px;
+  width: 150px;
+  margin: 0 auto;
+}
+#mot {
+  position: relative;
+  bottom: -60px;
+}
+#teamname {
+  position: relative;
+  top: 30px;
+}
+#teamdetail {
+  position: relative;
+  top: 30px;
+  color: grey;
+}
+#socialicons {
+  position: relative;
+  top:30px;
+}
+#socialicons1 {
+  position: relative;
+  top:50px;
+
+}
+.btncs {
+  background-color: #717263;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#ourproductslist {
+  text-align: left;
+}
+.ourpdcts {
+  position: relative;
+  top: -25px;
+}
+.jumbotron img:hover {
+  border: 2px solid black;
+  opacity: 0.8;
+}
+.jumbotron a {
+  color: rgba(96, 6, 6, .7);
+}
+.people {
+  position: relative;
+  margin-left: 130px;
+  font-size: 19px;
+  color: rgba(96, 6, 6, .7);
+  padding: 10px;
+}
+.review111 {
+  position: relative;
+  left: -200px;
+  line-height: 210px;
+  font-size: 30px;
+  font-family: 'Bitter', serif;
+  color: rgba(96, 6, 6, .7);
+}
+.review112 {
+  line-height: 210px;
+  font-size: 30px;
+  font-family: 'Bitter', serif;
+  color: rgba(96, 6, 6, .7);
+}
+.footer111 {
+  position: relative;
+  margin-top: 5px;
+}
+
+
+.hovereffect {
+width:100%;
+height:100%;
+float:left;
+overflow:hidden;
+position:relative;
+text-align:center;
+cursor:default;
+}
+
+.hovereffect .overlay {
+width:100%;
+height:100%;
+position:absolute;
+overflow:hidden;
+top:0;
+left:0;
+opacity:0;
+background-color:rgba(0,0,0,0.5);
+-webkit-transition:all .4s ease-in-out;
+transition:all .4s ease-in-out
+}
+
+.hovereffect img {
+display:block;
+position:relative;
+-webkit-transition:all .4s linear;
+transition:all .4s linear;
+}
+
+.hovereffect h2 {
+text-transform:uppercase;
+color:#fff;
+text-align:center;
+position:relative;
+font-size:17px;
+background:rgba(0,0,0,0.6);
+-webkit-transform:translatey(-100px);
+-ms-transform:translatey(-100px);
+transform:translatey(-100px);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+padding:10px;
+}
+
+.hovereffect a.info {
+text-decoration:none;
+display:inline-block;
+text-transform:uppercase;
+color:#fff;
+border:1px solid #fff;
+background-color:transparent;
+opacity:0;
+filter:alpha(opacity=0);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+margin:50px 0 0;
+padding:7px 14px;
+}
+
+.hovereffect a.info:hover {
+box-shadow:0 0 5px #fff;
+}
+
+.hovereffect:hover img {
+-ms-transform:scale(1.2);
+-webkit-transform:scale(1.2);
+transform:scale(1.2);
+}
+
+.hovereffect:hover .overlay {
+opacity:1;
+filter:alpha(opacity=100);
+}
+
+.hovereffect:hover h2,.hovereffect:hover a.info {
+opacity:1;
+filter:alpha(opacity=100);
+-ms-transform:translatey(0);
+-webkit-transform:translatey(0);
+transform:translatey(0);
+}
+
+.hovereffect:hover a.info {
+-webkit-transition-delay:.2s;
+transition-delay:.2s;
+}
+@media screen and (max-width:1200px) {
+  #top {
+   font-size: 40px;
+   padding-left: 0px;
+  }
+  #top h2 {
+    font-size: 44px;
+    position: relative;
+    left: 0px;
+  }
+  #top h3 {
+    position: relative;
+    left: 0px;
+  }
+  .decoo {
+    position: relative;
+    left: 0px;
+  }
+  .clubword1 {
+    font-size: 20px
+  }
+  .wtgtext {
+    position: relative;
+    left: 140px;
+    bottom: 400px;
+    font-size: 10px;
+   
+  }
+  .pics {
+    margin-top: 0;
+    top: 339px;
+  }
+  #pics1 {
+  margin-bottom: 35px;
+  margin-top: 107px;
+  }
+  #welcome {
+    height: 670px;
+  }
+  .pics33 {
+  top: 355px;
+  }
+  .pics1 {
+    margin-top:150px;
+    /* margin-top: 150px; */
+  }
+  #pics11 {
+    top: 92px;
+    margin-top: 0;
+  }
+  #pics {
+    top: 338px;
+  }
+  #iconsandtexts1 {
+    top: 107px;
+  }
+.abc {
+  height: 1250px;
+}
+#iconsandtexts2 {
+  top: 242px;
+}
+#mot {
+  margin-bottom: 100px;
+}
+.contact-box {
+  display: table-footer-group;
+}
+.footer321 {
+  margin-top: 310px;
+}
+
+}
